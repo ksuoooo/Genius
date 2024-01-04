@@ -8,5 +8,6 @@
   "prettier.semi": true,
   "prettier.trailingComma": "all",
   "prettier.bracketSpacing": true,
-  "prettier.proseWrap": "always"
+  "prettier.proseWrap": "always",
+  "semi": false
 }
